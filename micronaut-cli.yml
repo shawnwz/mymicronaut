@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.mymicronaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, aws-v2-sdk, http-client, jackson-databind, java, java-application, junit, log4j2, lombok, maven, netty-server, openapi, rabbitmq, readme, shade, swagger-ui, yaml]
