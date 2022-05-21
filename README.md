@@ -6,6 +6,12 @@
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
+## Run
+```
+cd mymicronaut
+./mvnw mn:run
+```
+
 ## Feature lombok documentation
 
 - [Micronaut Project Lombok documentation](https://docs.micronaut.io/latest/guide/index.html#lombok)
